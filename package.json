@@ -1,0 +1,24 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "server for voting for games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseCup/NodeServer.git"
+  },
+  "author": "MultiverseCup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseCup/NodeServer/issues"
+  },
+  "homepage": "https://github.com/MultiverseCup/NodeServer#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
